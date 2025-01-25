@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --breakpoint-csm: 250px;
+  --breakpoint-xs: 400px;
+}
+
+.varela-round {
+  font-family: "Varela Round", serif;
+  font-weight: 400;
+  font-style: normal;
+}
